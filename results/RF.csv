@@ -1,0 +1,2 @@
+Best Parameters,Best CV Accuracy,Default CV Accuracy,Default CV MCC,Overall CV Accuracy,Overall CV MCC
+"OrderedDict([('bootstrap', False), ('max_depth', 6), ('max_features', 'log2'), ('min_samples_leaf', 9), ('min_samples_split', 2), ('n_estimators', 1089)])",0.8047619047619048,0.7632508833922261,0.45766299552528994,0.8056537102473498,0.558878490103419
