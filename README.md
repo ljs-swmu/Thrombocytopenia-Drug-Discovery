@@ -10,29 +10,29 @@ pip install -r requirements.txt
 ====================================
 
 Directory Structure
-•	data/: Contains the dataset files.
+data/: Contains the dataset files.
 
-•	train.csv: Contains 379 optimized features, with 98 active molecules and 185 inactive molecules.
-•	test.csv: Contains 379 optimized features, with 25 active molecules and 46 inactive molecules.
-•	train-1051.csv: Contains 123 active molecules and 928 inactive molecules.
+train.csv: Contains 379 optimized features, with 98 active molecules and 185 inactive molecules.
+test.csv: Contains 379 optimized features, with 25 active molecules and 46 inactive molecules.
+train-1051.csv: Contains 123 active molecules and 928 inactive molecules.
 
-•	scripts/: Contains all the scripts for running the machine learning models and analyses.
+scripts/: Contains all the scripts for running the machine learning models and analyses.
 
-•	SVM.py
-•	XGBoost.py
-•	RF.py
-•	NB.py
-•	LR.py
-•	KNN.py
-•	ANN.py
-•	AdaBoost.py
-•	model_comparison.py
-•	prediction.py
-•	100training.py
+SVM.py
+XGBoost.py
+RF.py
+NB.py
+LR.py
+KNN.py
+ANN.py
+AdaBoost.py
+model_comparison.py
+prediction.py
+100training.py
 
-•	results/: Directory for saving output files such as metrics and predictions.
-•	metrics.csv
-•	predictions.csv
+results/: Directory for saving output files such as metrics and predictions.
+metrics.csv
+predictions.csv
 
 Usage
 Finding Optimal Hyperparameters
@@ -65,4 +65,6 @@ Identification of Active Molecules Against Thrombocytopenia Through Machine Lear
 
 Contact
 For any questions or issues, please contact [ljs@swmu.edu.cn].
+
+
 
